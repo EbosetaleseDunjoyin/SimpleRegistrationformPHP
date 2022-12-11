@@ -48,7 +48,7 @@ require_once 'register.php'
                             </div>
                             <div class="col-3">
                                 <div class="form-floating mb-3">
-                                    <input type="text" class="form-control" name="expiration" placeholder="Expiration-Date" required>
+                                    <input type="month" class="form-control" name="expiration" placeholder="Expiration-Date" required>
                                     <label>Expiration-Date (mm/yy)</label>
                                 </div>
                             </div>
